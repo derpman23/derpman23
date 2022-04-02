@@ -1,2 +1,3 @@
 ### Hello, I'm derpman23 👋
-I like apples, and I enjoy doing math and computer science.
+i like apples, penguins, adventure time
+c++ main, i do math too
